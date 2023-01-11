@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunayana93
 - 👀 I’m interested in learing codes 
-- 🌱 I’m currently learning Python R langauge 
+- 🌱 I’m currently learning Python Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
